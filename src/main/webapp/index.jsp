@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Hello Cloudbots...from github</h2>
+<h2> Hello Cloudbots</h2>
 </body>
 </html>
